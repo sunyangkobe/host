@@ -1,0 +1,125 @@
+body {
+	background: #191919;
+	width:1024px;
+	margin: 0 auto;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+a {
+	text-decoration:none;	
+}
+
+h2, h3 {
+	color:#333333;
+}
+
+h2 {
+	margin-top:10px;
+	font-size:21px;
+}
+
+h3 {
+	font-size:17px;
+	margin-top:15px;
+}
+
+#hr {
+	clear:both;
+	height: 40px;
+	background-image:url(../images/hr.png);
+	background-repeat:repeat-x;
+	width:100%;
+}
+
+#menu a:link {
+	color: #FFF;
+}
+
+#menu a:active {
+	color: #FFF;
+}
+
+#menu a:visited {
+	color: #FFF;
+}
+
+#menu a:hover {
+	color: #9ECAE7;
+}
+
+#banner {
+	background-image:url(../images/hp_header.png);
+	height:170px;
+	text-align:center;
+}
+
+#name {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:28px;
+	color:#FFF;
+	padding-top:75px;
+	margin-bottom: 5px;
+}
+
+#school {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:24px;
+	color:#999;
+}
+
+#menu {
+	background-image:url(../images/bar2.png);
+	background-repeat:repeat-x;
+	color:#FFF;
+}
+
+#menu ul {
+	padding: 10px 0px 10px 75px;
+	margin: 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+}
+
+#menu li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 75px;
+}
+
+#container {
+	background-color:#FFF;
+	min-height:450px;
+	overflow:hidden;
+}
+
+#left-container {
+	border-right-style:solid;
+	border-right-width:1px;
+	margin: 5px;
+	padding: 20px;
+	float:left;
+}
+
+#confidence {
+	color:#666666;
+	margin: 30px 0px;
+	font-style: italic;
+}
+
+#right-container {
+	border:none;
+	float:right;
+	padding: 15px;
+}
+
+#footer {
+	background-image:url(../images/bar.png);
+	background-repeat:repeat-x;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFF;
+	padding: 10px 0px;
+	text-align:center;
+	margin-bottom: 10px;
+}

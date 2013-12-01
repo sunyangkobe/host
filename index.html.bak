@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Kobe's Server</title>
+	</head>
+	<body>
+		<h3> Welcome to Kobe's Server, please select my project </h3>
+		<p>Click to enter: 
+			<ul>
+				<li><a href="cscc40">CSCC40 Project (under construction)</a></li>
+				<li><a href="csc309">SmartShare Project Beta</a></li>
+				<li><a href="textual_analysis">Textual Analysis</a></li>
+				<li><a href="Cheetah/Cheetah.html">Cheetah Project Dev</a></li>
+				<li><a href="http://www.utsc.utoronto.ca/greenpath">UTSC GP Project</a></li>
+				<li><a href="greenpath">UTSC GP Project Dev</a></li>
+			</ul>
+		</p>
+		
+		<p>Developer Portals (permission required): 
+			<ul>
+				<li><a href="pma">DB PMA</a></li>
+				<li><a href="trac_cscc40">CSCC40 Project Trac</a></li>
+				<li><a href="trac_csc309">SmartShare Project Trac</a></li>
+				<li><a href="trac_cheetah">Cheetah Project Trac</a></li>
+			</ul>
+		</p>
+	</body>
+</html>
